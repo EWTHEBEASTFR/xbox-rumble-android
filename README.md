@@ -1,2 +1,4 @@
-# xbox-rumble-android
-Native Android app to vibrate the bottom (heavy) motor of an Xbox One controller via USB OTG. Kotlin + Jetpack Compose.
+# Xbox Rumble - Standalone Android App
+
+Native Android app to vibrate the bottom motor of an Xbox One controller via USB OTG.
+https://github.com/EWTHEBEASTFR/xbox-rumble-android
